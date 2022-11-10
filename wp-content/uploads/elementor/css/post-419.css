@@ -1,0 +1,24 @@
+.elementor-419 .elementor-element.elementor-element-24face4 > .elementor-container{max-width:320px;}.elementor-419 .elementor-element.elementor-element-24face4:not(.elementor-motion-effects-element-type-background), .elementor-419 .elementor-element.elementor-element-24face4 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#000000;}.elementor-419 .elementor-element.elementor-element-24face4{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-419 .elementor-element.elementor-element-24face4 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-419 .elementor-element.elementor-element-72afa43:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-419 .elementor-element.elementor-element-72afa43 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#000000;}.elementor-419 .elementor-element.elementor-element-72afa43 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-419 .elementor-element.elementor-element-72afa43 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-419 .elementor-element.elementor-element-642e8e0:not(.elementor-motion-effects-element-type-background), .elementor-419 .elementor-element.elementor-element-642e8e0 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://nguyendinhbao12312.github.io/Homepage/wp-content/uploads/2022/11/fancybox-bg-01.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-419 .elementor-element.elementor-element-642e8e0{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-419 .elementor-element.elementor-element-642e8e0 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-419 .elementor-element.elementor-element-aca402a{color:#FFFFFF;font-family:"Chakra Petch", Sans-serif;font-size:32px;font-weight:600;top:84px;}.elementor-419 .elementor-element.elementor-element-aca402a > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}body:not(.rtl) .elementor-419 .elementor-element.elementor-element-aca402a{left:-273px;}body.rtl .elementor-419 .elementor-element.elementor-element-aca402a{right:-273px;}.elementor-419 .elementor-element.elementor-element-62e91d4{color:#FFFFFF;font-family:"Chakra Petch", Sans-serif;font-weight:400;top:195px;}.elementor-419 .elementor-element.elementor-element-62e91d4 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}body:not(.rtl) .elementor-419 .elementor-element.elementor-element-62e91d4{left:-273px;}body.rtl .elementor-419 .elementor-element.elementor-element-62e91d4{right:-273px;}.elementor-419 .elementor-element.elementor-element-f43a907 .uc_button{background-color:#D16527;border-radius:0px;font-family:"Chakra Petch", Sans-serif;font-size:23px;font-weight:600;text-decoration:none;color:#FFFFFF;}.elementor-419 .elementor-element.elementor-element-f43a907 .uc_creative_buttons .uc_button::after,.elementor-419 .elementor-element.elementor-element-f43a907 .uc_creative_buttons .uc_button::before{background-color:#000000;}.elementor-419 .elementor-element.elementor-element-f43a907 .button-padding{padding:10px 20px 10px 20px;}.elementor-419 .elementor-element.elementor-element-f43a907 .uc_button:hover{color:#ffffff;}.elementor-419 .elementor-element.elementor-element-f43a907 > .elementor-widget-container{margin:-120px 0px 0px -650px;}/* Start custom CSS for section, class: .elementor-element-642e8e0 */.my-class{
+    padding-top:400px;
+    padding-left:320px; 
+}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-aca402a */.my-text{
+    padding-left:40;
+}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-62e91d4 */.my-text{
+    padding-left:40;
+}/* End custom CSS */
+/* Start custom CSS for ucaddon_creative_buttons, class: .elementor-element-f43a907 */.uc_button.button-padding.uc_btn-5{
+    border-color: #D165272;
+    clip-path: polygon(20px 0,100% 0,100% calc(100% - 20px),calc(100% - 20px) 100%,0 100%,0 20px);
+    
+}
+.uc_button.button-padding.uc_btn-5:hover{
+    clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 100%);
+    background-color: black;
+    border: 3px solid #D16527;
+}
+.elementor-419 .elementor-element.elementor-element-f43a907 .uc_creative_buttons .uc_button::after, .elementor-419 .elementor-element.elementor-element-f43a907 .uc_creative_buttons .uc_button::before{
+    background-color: #fff;
+    opacity: .2;
+}/* End custom CSS */

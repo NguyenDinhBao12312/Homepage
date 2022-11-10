@@ -1,0 +1,14 @@
+.elementor-811 .elementor-element.elementor-element-811 .uc_button{background-color:#D16527;border-radius:0px;font-family:"Chakra Petch", Sans-serif;font-size:23px;font-weight:600;text-decoration:none;color:#FFFFFF;}.elementor-811 .elementor-element.elementor-element-811 .uc_creative_buttons .uc_button::after,.elementor-811 .elementor-element.elementor-element-811 .uc_creative_buttons .uc_button::before{background-color:#000000;}.elementor-811 .elementor-element.elementor-element-811 .button-padding{padding:10px 20px 10px 20px;}.elementor-811 .elementor-element.elementor-element-811 .uc_button:hover{color:#ffffff;}.elementor-811 .elementor-element.elementor-element-811 > .elementor-widget-container{margin:0px 400px 0px 0px;}/* Start custom CSS for ucaddon_creative_buttons, class: .elementor-element-811 */.uc_button.button-padding.uc_btn-5{
+    border-color: #D165272;
+    clip-path: polygon(20px 0,100% 0,100% calc(100% - 20px),calc(100% - 20px) 100%,0 100%,0 20px);
+    
+}
+.uc_button.button-padding.uc_btn-5:hover{
+    clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 100%);
+    background-color: black;
+    border: 3px solid #D16527;
+}
+.elementor-419 .elementor-element.elementor-element-f43a907 .uc_creative_buttons .uc_button::after, .elementor-419 .elementor-element.elementor-element-f43a907 .uc_creative_buttons .uc_button::before{
+    background-color: #fff;
+    opacity: .2;
+}/* End custom CSS */
